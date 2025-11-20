@@ -1,0 +1,3564 @@
+{
+  "generated_at": "2025-11-14T15:18:19.075382088+00:00",
+  "total_properties": 42749,
+  "top_cities": [
+    {
+      "city": "Toronto",
+      "count": 42749,
+      "avg_price": 398553.23
+    },
+    {
+      "city": "Vancouver",
+      "count": 42749,
+      "avg_price": 398553.23
+    },
+    {
+      "city": "Calgary",
+      "count": 42749,
+      "avg_price": 398553.23
+    },
+    {
+      "city": "Montreal",
+      "count": 42749,
+      "avg_price": 398553.23
+    },
+    {
+      "city": "Ottawa",
+      "count": 42749,
+      "avg_price": 398553.23
+    }
+  ],
+  "property_types": {
+    "Detached": 42749,
+    "Semi-Detached": 42749,
+    "Townhouse": 42749,
+    "Condo": 42749,
+    "Apartment": 42749
+  },
+  "status_distribution": {
+    "Active": 42749,
+    "Sold": 42749,
+    "Pending": 42749,
+    "Expired": 42749,
+    "Cancelled": 42749
+  },
+  "price_statistics": {
+    "total_listings_analyzed": 42749,
+    "ranges": [
+      {
+        "range": "Under $300k",
+        "count": 42749
+      },
+      {
+        "range": "$300k-$500k",
+        "count": 42749
+      },
+      {
+        "range": "$500k-$750k",
+        "count": 42749
+      },
+      {
+        "range": "$750k-$1M",
+        "count": 42749
+      },
+      {
+        "range": "$1M-$2M",
+        "count": 42749
+      },
+      {
+        "range": "Over $2M",
+        "count": 42749
+      }
+    ]
+  },
+  "example_listings": [
+    {
+      "address": {
+        "addressKey": "16328166thplaceolathe",
+        "area": "Johnson, KS",
+        "city": "Olathe",
+        "communityCode": null,
+        "country": null,
+        "district": null,
+        "majorIntersection": null,
+        "neighborhood": "Stonebridge Trails",
+        "state": "KS",
+        "streetDirection": null,
+        "streetDirectionPrefix": "W",
+        "streetName": "166th",
+        "streetNumber": "16328",
+        "streetSuffix": "Place",
+        "unitNumber": null,
+        "zip": "66062"
+      },
+      "agents": [
+        {
+          "agentId": "HMS1050497",
+          "board": null,
+          "boardAgentId": "HMSSCHRAD",
+          "boardOfficeId": "HMSRODR",
+          "brokerage": {
+            "address": {
+              "address1": "9550 Dice Lane",
+              "address2": null,
+              "city": "Lenexa",
+              "country": null,
+              "postal": "66215",
+              "state": "KS"
+            },
+            "name": "Rodrock & Associates Realtors"
+          },
+          "email": "REDACTED",
+          "name": "Robyn Schraden",
+          "officeId": "HMS1007298",
+          "phones": [
+            "913-515-5065",
+            "913-681-5111"
+          ],
+          "photo": {
+            "large": null,
+            "small": null,
+            "updatedOn": null
+          },
+          "position": null,
+          "social": [],
+          "updatedOn": "2025-02-12 21:12:26",
+          "website": null
+        },
+        {
+          "agentId": "HMS38546021",
+          "board": null,
+          "boardAgentId": "HMS413585209",
+          "boardOfficeId": "HMSRODR",
+          "brokerage": {
+            "address": {
+              "address1": "9550 Dice Lane",
+              "address2": null,
+              "city": "Lenexa",
+              "country": null,
+              "postal": "66215",
+              "state": "KS"
+            },
+            "name": "Rodrock & Associates Realtors"
+          },
+          "email": "REDACTED",
+          "name": "Tricia Cartwright",
+          "officeId": "HMS1007298",
+          "phones": [
+            "913-620-3852",
+            "913-681-5111"
+          ],
+          "photo": {
+            "large": null,
+            "small": null,
+            "updatedOn": null
+          },
+          "position": null,
+          "social": [],
+          "updatedOn": "2025-02-12 21:12:39",
+          "website": null
+        }
+      ],
+      "assignment": null,
+      "boardId": 110,
+      "class": "CondoProperty",
+      "condominium": {
+        "amenities": [],
+        "buildingInsurance": null,
+        "condoCorp": null,
+        "condoCorpNum": null,
+        "ensuiteLaundry": null,
+        "exposure": null,
+        "fees": {
+          "cableInlc": null,
+          "heatIncl": null,
+          "hydroIncl": null,
+          "maintenance": 825,
+          "parkingIncl": null,
+          "taxesIncl": null,
+          "waterIncl": null
+        },
+        "locker": null,
+        "lockerLevel": null,
+        "lockerNumber": null,
+        "lockerUnitNumber": null,
+        "parkingType": "Attached, Garage Faces Front",
+        "pets": null,
+        "propertyMgr": null,
+        "sharesPercentage": null,
+        "stories": null,
+        "unitNumber": null
+      },
+      "coopCompensation": null,
+      "daysOnMarket": 755,
+      "details": {
+        "HOAFee": "825",
+        "HOAFee2": null,
+        "HOAFee3": null,
+        "airConditioning": "Electric",
+        "alternateURLVideoLink": null,
+        "amperage": null,
+        "analyticsClick": null,
+        "balcony": "Covered, Patio",
+        "basement1": "Finished, Walk-Out Access",
+        "basement2": null,
+        "bathrooms": [],
+        "businessSubType": null,
+        "businessType": null,
+        "ceilingType": null,
+        "centralAirConditioning": null,
+        "centralVac": null,
+        "certificationLevel": null,
+        "commonElementsIncluded": null,
+        "constructionStatus": null,
+        "constructionStyleSplitLevel": null,
+        "den": null,
+        "description": "**** SAMPLE DATA **** MOVE IN READY! The \"Sonoma\" by Rodrock Homes is a reverse 1.5 story on a walkout lot backing to trees.  A beautiful homesite! The Great Room has huge windows to let in the sunshine with a view of many trees. The Kitchen has an oversized island with custom cabinets and access to a covered deck  The huge walk in pantry is tucked away with a full bath and bedroom behind the kitchen for privacy. Hang your coats at the drop zone off the garage door.  You will enjoy the view out the dining room windows next to kitchen that leads to the covered deck. The Primary bedroom suite has a private entry with an en suite bath that provides  dual vanities, shower and an enormous walk-in closet. The lower has a Recreation Room with a walk up bar and 2 more bedrooms and bath.  So many trees for afternoon- evening shade on the patio as this home faces west.  Stonebridge Trails is a Rodrock Community. Wonderful amenities with 2 clubhouses, 1 with work out facility, 4 pools, playgrounds, basketball and tennis courts and nature trails through out the neighborhood. Close to Heritage Park that provides a dog park, golfing, picnic areas and more! Taxes, square footage, and room dimensions are estimated. Buyer Agent or Buyer to verify. **** SAMPLE DATA ****",
+        "driveway": null,
+        "elevator": null,
+        "energuideRating": null,
+        "energyCertification": null,
+        "exteriorConstruction1": "Stone Trim, Stucco",
+        "exteriorConstruction2": null,
+        "extras": "Cooktop, Dishwasher, Disposal, Exhaust Fan, Humidifier, Microwave, Built-In Oven",
+        "familyRoom": null,
+        "farmType": null,
+        "fireProtection": null,
+        "flooringType": "Carpet, Tile, Wood",
+        "foundationType": null,
+        "furnished": null,
+        "garage": null,
+        "greenPropertyInformationStatement": null,
+        "handicappedEquipped": null,
+        "heating": "Forced Air",
+        "landAccessType": null,
+        "landDisposition": null,
+        "landSewer": null,
+        "landscapeFeatures": null,
+        "laundryLevel": null,
+        "leaseTerms": null,
+        "liveStreamEventURL": null,
+        "livingAreaMeasurement": null,
+        "loadingType": null,
+        "moreInformationLink": null,
+        "numBathrooms": 3,
+        "numBathroomsHalf": null,
+        "numBathroomsPlus": null,
+        "numBedrooms": 4,
+        "numBedroomsPlus": null,
+        "numDrivewaySpaces": null,
+        "numFireplaces": null,
+        "numGarageSpaces": 3,
+        "numKitchens": null,
+        "numKitchensPlus": null,
+        "numParkingSpaces": null,
+        "numRooms": null,
+        "numRoomsPlus": null,
+        "parkCostMonthly": null,
+        "patio": "Covered, Patio",
+        "propertyType": "Residential",
+        "roofMaterial": "Composition",
+        "sewer": "Public Sewer",
+        "sqft": "3004",
+        "sqftRange": null,
+        "storageType": null,
+        "style": "Single Family Residence",
+        "swimmingPool": null,
+        "viewType": null,
+        "virtualTourUrl": "https://my.matterport.com/show/?m=it8B3PxLpqQ",
+        "waterSource": "Public",
+        "waterfront": null,
+        "yearBuilt": "2023",
+        "zoning": null,
+        "zoningDescription": null,
+        "zoningType": null
+      },
+      "estimate": {
+        "confidence": 0.124550533295,
+        "date": "2025-08-06T20:07:34.003Z",
+        "high": 861275.8932017827,
+        "history": {
+          "mth": {
+            "2023-09": {
+              "value": 761449.125
+            },
+            "2023-10": {
+              "value": 761087.6875
+            },
+            "2023-11": {
+              "value": 761743
+            },
+            "2023-12": {
+              "value": 760771.875
+            },
+            "2024-01": {
+              "value": 759611.125
+            },
+            "2024-02": {
+              "value": 763436.6875
+            },
+            "2024-03": {
+              "value": 764616.875
+            },
+            "2024-04": {
+              "value": 763778.875
+            },
+            "2024-05": {
+              "value": 762393.375
+            },
+            "2024-06": {
+              "value": 760819.625
+            },
+            "2024-07": {
+              "value": 760088.6875
+            },
+            "2024-08": {
+              "value": 763087.875
+            },
+            "2024-09": {
+              "value": 762679.375
+            },
+            "2024-10": {
+              "value": 762843.25
+            },
+            "2024-11": {
+              "value": 762445
+            },
+            "2024-12": {
+              "value": 762973.375
+            },
+            "2025-01": {
+              "value": 762483.9375
+            },
+            "2025-02": {
+              "value": 763448.625
+            },
+            "2025-03": {
+              "value": 765588.375
+            },
+            "2025-04": {
+              "value": 765962.6875
+            },
+            "2025-05": {
+              "value": 762056.5625
+            },
+            "2025-06": {
+              "value": 762765.3125
+            },
+            "2025-07": {
+              "value": 763519
+            },
+            "2025-08": {
+              "value": 765884.5625
+            }
+          }
+        },
+        "low": 670493.2317982173,
+        "value": 765884.5625
+      },
+      "imageInsights": {
+        "images": [
+          {
+            "classification": {
+              "imageOf": "Front of Structure",
+              "prediction": 0.9788690209
+            },
+            "image": "sample/IMG-HMS2407250_0.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.1364750862
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9770201445
+            },
+            "image": "sample/IMG-HMS2407250_3.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 4.773627758
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9948943853
+            },
+            "image": "sample/IMG-HMS2407250_4.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 5.2779989243
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9937526584
+            },
+            "image": "sample/IMG-HMS2407250_5.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 5.1687984467
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9861852527
+            },
+            "image": "sample/IMG-HMS2407250_6.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.5184545517
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9907093048
+            },
+            "image": "sample/IMG-HMS2407250_7.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.3476009369
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9921187162
+            },
+            "image": "sample/IMG-HMS2407250_8.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.6518507004
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Patio",
+              "prediction": 0.9299304485
+            },
+            "image": "sample/IMG-HMS2407250_11.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Kitchen",
+              "prediction": 0.9902750254
+            },
+            "image": "sample/IMG-HMS2407250_12.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.2615909576
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Kitchen",
+              "prediction": 0.9936766028
+            },
+            "image": "sample/IMG-HMS2407250_14.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 5.0522155762
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Kitchen",
+              "prediction": 0.993073523
+            },
+            "image": "sample/IMG-HMS2407250_15.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.5409612656
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Kitchen",
+              "prediction": 0.9990475774
+            },
+            "image": "sample/IMG-HMS2407250_16.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 5.1148052216
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Office",
+              "prediction": 0.9857390523
+            },
+            "image": "sample/IMG-HMS2407250_19.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9999966621
+            },
+            "image": "sample/IMG-HMS2407250_20.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.8334684372
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bedroom",
+              "prediction": 0.9995461106
+            },
+            "image": "sample/IMG-HMS2407250_22.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.3557596207
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bedroom",
+              "prediction": 0.9999420643
+            },
+            "image": "sample/IMG-HMS2407250_23.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.4646987915
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9001826644
+            },
+            "image": "sample/IMG-HMS2407250_24.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.2505273819
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9999965429
+            },
+            "image": "sample/IMG-HMS2407250_25.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.676835537
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9963071346
+            },
+            "image": "sample/IMG-HMS2407250_26.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.3426818848
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9124815464
+            },
+            "image": "sample/IMG-HMS2407250_27.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.8061718941
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bedroom",
+              "prediction": 0.9996868372
+            },
+            "image": "sample/IMG-HMS2407250_30.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.8299694061
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9998278618
+            },
+            "image": "sample/IMG-HMS2407250_31.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.9039542675
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bedroom",
+              "prediction": 0.9996174574
+            },
+            "image": "sample/IMG-HMS2407250_32.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.7489361763
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Pool",
+              "prediction": 0.9980307221
+            },
+            "image": "sample/IMG-HMS2407250_37.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Pool",
+              "prediction": 0.9814060926
+            },
+            "image": "sample/IMG-HMS2407250_39.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Aerial View",
+              "prediction": 0.9884480834
+            },
+            "image": "sample/IMG-HMS2407250_40.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Pool",
+              "prediction": 0.9999601841
+            },
+            "image": "sample/IMG-HMS2407250_43.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Exercise Room",
+              "prediction": 0.9970752001
+            },
+            "image": "sample/IMG-HMS2407250_44.jpg",
+            "quality": null
+          }
+        ],
+        "summary": {
+          "quality": {
+            "qualitative": {
+              "features": {
+                "bathroom": "above average",
+                "bedroom": "above average",
+                "frontOfStructure": "average",
+                "kitchen": "excellent",
+                "livingRoom": "excellent"
+              },
+              "overall": "above average"
+            },
+            "quantitative": {
+              "features": {
+                "bathroom": 4.676835537,
+                "bedroom": 4.4646987915,
+                "frontOfStructure": 3.1364750862,
+                "kitchen": 5.1148052216,
+                "livingRoom": 5.2779989243
+              },
+              "overall": 4.676835537
+            }
+          }
+        }
+      },
+      "images": [
+        "sample/IMG-HMS2407250_0.jpg",
+        "sample/IMG-HMS2407250_1.jpg",
+        "sample/IMG-HMS2407250_2.jpg",
+        "sample/IMG-HMS2407250_3.jpg",
+        "sample/IMG-HMS2407250_4.jpg",
+        "sample/IMG-HMS2407250_5.jpg",
+        "sample/IMG-HMS2407250_6.jpg",
+        "sample/IMG-HMS2407250_7.jpg",
+        "sample/IMG-HMS2407250_8.jpg",
+        "sample/IMG-HMS2407250_9.jpg",
+        "sample/IMG-HMS2407250_10.jpg",
+        "sample/IMG-HMS2407250_11.jpg",
+        "sample/IMG-HMS2407250_12.jpg",
+        "sample/IMG-HMS2407250_13.jpg",
+        "sample/IMG-HMS2407250_14.jpg",
+        "sample/IMG-HMS2407250_15.jpg",
+        "sample/IMG-HMS2407250_16.jpg",
+        "sample/IMG-HMS2407250_17.jpg",
+        "sample/IMG-HMS2407250_18.jpg",
+        "sample/IMG-HMS2407250_19.jpg",
+        "sample/IMG-HMS2407250_20.jpg",
+        "sample/IMG-HMS2407250_21.jpg",
+        "sample/IMG-HMS2407250_22.jpg",
+        "sample/IMG-HMS2407250_23.jpg",
+        "sample/IMG-HMS2407250_24.jpg",
+        "sample/IMG-HMS2407250_25.jpg",
+        "sample/IMG-HMS2407250_26.jpg",
+        "sample/IMG-HMS2407250_27.jpg",
+        "sample/IMG-HMS2407250_28.jpg",
+        "sample/IMG-HMS2407250_29.jpg",
+        "sample/IMG-HMS2407250_30.jpg",
+        "sample/IMG-HMS2407250_31.jpg",
+        "sample/IMG-HMS2407250_32.jpg",
+        "sample/IMG-HMS2407250_33.jpg",
+        "sample/IMG-HMS2407250_34.jpg",
+        "sample/IMG-HMS2407250_35.jpg",
+        "sample/IMG-HMS2407250_36.jpg",
+        "sample/IMG-HMS2407250_37.jpg",
+        "sample/IMG-HMS2407250_38.jpg",
+        "sample/IMG-HMS2407250_39.jpg",
+        "sample/IMG-HMS2407250_40.jpg",
+        "sample/IMG-HMS2407250_41.jpg",
+        "sample/IMG-HMS2407250_42.jpg",
+        "sample/IMG-HMS2407250_43.jpg",
+        "sample/IMG-HMS2407250_44.jpg",
+        "sample/IMG-HMS2407250_45.jpg"
+      ],
+      "lastStatus": "New",
+      "listDate": "2025-11-01T00:00:00.000-00:00",
+      "listPrice": 750000,
+      "lot": {
+        "acres": null,
+        "depth": null,
+        "dimensions": null,
+        "dimensionsSource": null,
+        "features": "Adjoin Greenspace, Treed",
+        "irregular": null,
+        "legalDescription": "Lot 251, 6th Plat, Stonebridge Trails",
+        "measurement": "Square Feet",
+        "size": 10397,
+        "source": null,
+        "squareFeet": 10397,
+        "taxLot": null,
+        "width": null
+      },
+      "map": {
+        "latitude": 38.82685443,
+        "longitude": -94.77552582,
+        "point": "POINT (-94.77552582 38.82685443)"
+      },
+      "mlsNumber": "HMS2407250",
+      "nearby": {
+        "amenities": []
+      },
+      "occupancy": null,
+      "office": {
+        "brokerageName": "Rodrock & Associates Realtors"
+      },
+      "openHouse": [],
+      "originalPrice": 770201,
+      "permissions": {
+        "displayAddressOnInternet": "Y",
+        "displayInternetEntireListing": "Y",
+        "displayPublic": "Y"
+      },
+      "photoCount": 46,
+      "resource": "Property:2505",
+      "rooms": [
+        {
+          "description": "Kitchen",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Bedroom 1",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Bathroom 1",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Master Bedroom",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Master Bathroom",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Dining Room",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Laundry",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Bedroom 3",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Lower",
+          "width": null
+        },
+        {
+          "description": "Bathroom 3",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Lower",
+          "width": null
+        },
+        {
+          "description": "Bedroom 4",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Lower",
+          "width": null
+        },
+        {
+          "description": "Utility Room",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Lower",
+          "width": null
+        }
+      ],
+      "simpleDaysOnMarket": 14,
+      "soldDate": null,
+      "soldPrice": null,
+      "standardStatus": "Active",
+      "status": "A",
+      "taxes": {
+        "annualAmount": null,
+        "assessmentYear": null
+      },
+      "timestamps": {
+        "closedDate": null,
+        "conditionalExpiryDate": null,
+        "expiryDate": null,
+        "extensionEntryDate": null,
+        "idxUpdated": "2025-02-12T21:07:51.000-00:00",
+        "imageInsightsUpdatedOn": "2025-02-12T21:07:51.000-00:00",
+        "listingEntryDate": null,
+        "listingUpdated": "2025-02-12T21:07:51.000-00:00",
+        "photosUpdated": "2025-02-12T21:07:51.000-00:00",
+        "possessionDate": null,
+        "repliersUpdatedOn": "2025-11-01T00:53:59.377Z",
+        "suspendedDate": null,
+        "terminatedDate": null,
+        "unavailableDate": null
+      },
+      "type": "Sale",
+      "updatedOn": "2025-02-12T21:07:51.000-00:00"
+    },
+    {
+      "address": {
+        "addressKey": "hwy116highwayplattsburg",
+        "area": "Clinton",
+        "city": "Plattsburg",
+        "communityCode": null,
+        "country": null,
+        "district": null,
+        "majorIntersection": null,
+        "neighborhood": "None",
+        "state": "MO",
+        "streetDirection": null,
+        "streetDirectionPrefix": "W",
+        "streetName": "Hwy 116",
+        "streetNumber": null,
+        "streetSuffix": "Highway",
+        "unitNumber": null,
+        "zip": "64477"
+      },
+      "agents": [
+        {
+          "agentId": "HMS1052221",
+          "board": null,
+          "boardAgentId": "HMSAARTIGAS",
+          "boardOfficeId": "HMSSHOW04",
+          "brokerage": {
+            "address": {
+              "address1": "1200 W Clay Ave",
+              "address2": null,
+              "city": "Plattsburg",
+              "country": null,
+              "postal": "64477",
+              "state": "MO"
+            },
+            "name": "Show-me Real Estate"
+          },
+          "email": "REDACTED",
+          "name": "Amanda Artigas",
+          "officeId": "HMS1007518",
+          "phones": [
+            "816-804-3723",
+            "816-930-3160"
+          ],
+          "photo": {
+            "large": null,
+            "small": null,
+            "updatedOn": null
+          },
+          "position": null,
+          "social": [],
+          "updatedOn": "2025-02-12 21:12:27",
+          "website": null
+        }
+      ],
+      "assignment": null,
+      "boardId": 110,
+      "class": "ResidentialProperty",
+      "coopCompensation": null,
+      "daysOnMarket": 2584,
+      "details": {
+        "HOAFee": null,
+        "HOAFee2": null,
+        "HOAFee3": null,
+        "airConditioning": null,
+        "alternateURLVideoLink": null,
+        "amperage": null,
+        "analyticsClick": null,
+        "basement1": null,
+        "basement2": null,
+        "bathrooms": [],
+        "businessSubType": null,
+        "businessType": null,
+        "ceilingType": null,
+        "centralAirConditioning": null,
+        "centralVac": null,
+        "certificationLevel": null,
+        "commonElementsIncluded": null,
+        "constructionStatus": null,
+        "constructionStyleSplitLevel": null,
+        "den": null,
+        "description": "**** SAMPLE DATA **** Prime location for your next business venture! With just over half an acre of flat land this property is ready to build on!  Lays right along 116 Hwy and Bush Street. Plattsburg is a flourishing community eager for new businesses to come to town! **** SAMPLE DATA ****",
+        "driveway": null,
+        "elevator": null,
+        "energuideRating": null,
+        "energyCertification": null,
+        "exteriorConstruction1": null,
+        "exteriorConstruction2": null,
+        "extras": null,
+        "familyRoom": null,
+        "farmType": null,
+        "fireProtection": null,
+        "flooringType": null,
+        "foundationType": null,
+        "furnished": null,
+        "garage": null,
+        "greenPropertyInformationStatement": null,
+        "handicappedEquipped": null,
+        "heating": null,
+        "landAccessType": null,
+        "landDisposition": null,
+        "landSewer": null,
+        "landscapeFeatures": null,
+        "laundryLevel": null,
+        "leaseTerms": null,
+        "liveStreamEventURL": null,
+        "livingAreaMeasurement": null,
+        "loadingType": null,
+        "moreInformationLink": null,
+        "numBathrooms": null,
+        "numBathroomsHalf": null,
+        "numBathroomsPlus": null,
+        "numBedrooms": null,
+        "numBedroomsPlus": null,
+        "numDrivewaySpaces": null,
+        "numFireplaces": null,
+        "numGarageSpaces": null,
+        "numKitchens": null,
+        "numKitchensPlus": null,
+        "numParkingSpaces": null,
+        "numRooms": null,
+        "numRoomsPlus": null,
+        "parkCostMonthly": null,
+        "patio": null,
+        "propertyType": "Land",
+        "roofMaterial": null,
+        "sewer": "Public Sewer",
+        "sqft": null,
+        "sqftRange": null,
+        "storageType": null,
+        "style": "Unimproved Land",
+        "swimmingPool": null,
+        "viewType": null,
+        "virtualTourUrl": null,
+        "waterSource": "City/Public - Verify",
+        "waterfront": null,
+        "yearBuilt": null,
+        "zoning": "C2",
+        "zoningDescription": null,
+        "zoningType": null
+      },
+      "estimate": {
+        "confidence": 0.249763793945,
+        "date": "2025-08-06T20:07:29.983Z",
+        "high": 97875.1636487859,
+        "history": {
+          "mth": {
+            "2023-09": {
+              "value": 70635.015625
+            },
+            "2023-10": {
+              "value": 69234.34375
+            },
+            "2023-11": {
+              "value": 69171.359375
+            },
+            "2023-12": {
+              "value": 69509.421875
+            },
+            "2024-01": {
+              "value": 69843.171875
+            },
+            "2024-02": {
+              "value": 71636.6015625
+            },
+            "2024-03": {
+              "value": 77489.71875
+            },
+            "2024-04": {
+              "value": 78877.1953125
+            },
+            "2024-05": {
+              "value": 77626.5859375
+            },
+            "2024-06": {
+              "value": 77581.5234375
+            },
+            "2024-07": {
+              "value": 78013.4765625
+            },
+            "2024-08": {
+              "value": 77562.09375
+            },
+            "2024-09": {
+              "value": 77475.890625
+            },
+            "2024-10": {
+              "value": 76333.2890625
+            },
+            "2024-11": {
+              "value": 75293.921875
+            },
+            "2024-12": {
+              "value": 75310.21875
+            },
+            "2025-01": {
+              "value": 76338.109375
+            },
+            "2025-02": {
+              "value": 75952.6796875
+            },
+            "2025-03": {
+              "value": 76503.3125
+            },
+            "2025-04": {
+              "value": 73810.3671875
+            },
+            "2025-05": {
+              "value": 75541.078125
+            },
+            "2025-06": {
+              "value": 75149.1953125
+            },
+            "2025-07": {
+              "value": 76086.515625
+            },
+            "2025-08": {
+              "value": 78314.9296875
+            }
+          }
+        },
+        "low": 58754.695726214086,
+        "value": 78314.9296875
+      },
+      "imageInsights": {
+        "images": [
+          {
+            "classification": {
+              "imageOf": "Aerial View",
+              "prediction": 0.9828194976
+            },
+            "image": "sample/IMG-HMS2085582_0.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Aerial View",
+              "prediction": 0.9706893563
+            },
+            "image": "sample/IMG-HMS2085582_3.jpg",
+            "quality": null
+          }
+        ],
+        "summary": {
+          "quality": {
+            "qualitative": {
+              "features": {},
+              "overall": "poor"
+            },
+            "quantitative": {
+              "features": {},
+              "overall": 0
+            }
+          }
+        }
+      },
+      "images": [
+        "sample/IMG-HMS2085582_0.jpg",
+        "sample/IMG-HMS2085582_1.jpg",
+        "sample/IMG-HMS2085582_2.jpg",
+        "sample/IMG-HMS2085582_3.jpg"
+      ],
+      "lastStatus": "New",
+      "listDate": "2025-11-01T00:00:00.000-00:00",
+      "listPrice": 59750,
+      "lot": {
+        "acres": null,
+        "depth": null,
+        "dimensions": null,
+        "dimensionsSource": null,
+        "features": null,
+        "irregular": null,
+        "legalDescription": null,
+        "measurement": "Acres",
+        "size": 0.56,
+        "source": null,
+        "squareFeet": 24393.6,
+        "taxLot": null,
+        "width": null
+      },
+      "map": {
+        "latitude": 39.564857,
+        "longitude": -94.47302,
+        "point": "POINT (-94.47302 39.564857)"
+      },
+      "mlsNumber": "HMS2085582",
+      "nearby": {
+        "amenities": []
+      },
+      "occupancy": null,
+      "office": {
+        "brokerageName": "Show-me Real Estate"
+      },
+      "openHouse": [],
+      "originalPrice": 69000,
+      "permissions": {
+        "displayAddressOnInternet": "Y",
+        "displayInternetEntireListing": "Y",
+        "displayPublic": "Y"
+      },
+      "photoCount": 4,
+      "resource": "Property:2505",
+      "rooms": [],
+      "simpleDaysOnMarket": 14,
+      "soldDate": null,
+      "soldPrice": null,
+      "standardStatus": "Active",
+      "status": "A",
+      "taxes": {
+        "annualAmount": null,
+        "assessmentYear": null
+      },
+      "timestamps": {
+        "closedDate": null,
+        "conditionalExpiryDate": null,
+        "expiryDate": null,
+        "extensionEntryDate": null,
+        "idxUpdated": "2025-02-12T21:07:50.000-00:00",
+        "imageInsightsUpdatedOn": "2025-02-12T21:07:50.000-00:00",
+        "listingEntryDate": null,
+        "listingUpdated": "2025-02-12T21:07:50.000-00:00",
+        "photosUpdated": "2025-02-12T21:07:50.000-00:00",
+        "possessionDate": null,
+        "repliersUpdatedOn": "2025-11-01T00:54:00.066Z",
+        "suspendedDate": null,
+        "terminatedDate": null,
+        "unavailableDate": null
+      },
+      "type": "Sale",
+      "updatedOn": "2025-02-12T21:07:50.000-00:00"
+    },
+    {
+      "address": {
+        "addressKey": "16328166thplaceolathe",
+        "area": "Johnson, KS",
+        "city": "Olathe",
+        "communityCode": null,
+        "country": null,
+        "district": null,
+        "majorIntersection": null,
+        "neighborhood": "Stonebridge Trails",
+        "state": "KS",
+        "streetDirection": null,
+        "streetDirectionPrefix": "W",
+        "streetName": "166th",
+        "streetNumber": "16328",
+        "streetSuffix": "Place",
+        "unitNumber": null,
+        "zip": "66062"
+      },
+      "agents": [
+        {
+          "agentId": "HMS1050497",
+          "board": null,
+          "boardAgentId": "HMSSCHRAD",
+          "boardOfficeId": "HMSRODR",
+          "brokerage": {
+            "address": {
+              "address1": "9550 Dice Lane",
+              "address2": null,
+              "city": "Lenexa",
+              "country": null,
+              "postal": "66215",
+              "state": "KS"
+            },
+            "name": "Rodrock & Associates Realtors"
+          },
+          "email": "REDACTED",
+          "name": "Robyn Schraden",
+          "officeId": "HMS1007298",
+          "phones": [
+            "913-515-5065",
+            "913-681-5111"
+          ],
+          "photo": {
+            "large": null,
+            "small": null,
+            "updatedOn": null
+          },
+          "position": null,
+          "social": [],
+          "updatedOn": "2025-02-12 21:12:26",
+          "website": null
+        },
+        {
+          "agentId": "HMS38546021",
+          "board": null,
+          "boardAgentId": "HMS413585209",
+          "boardOfficeId": "HMSRODR",
+          "brokerage": {
+            "address": {
+              "address1": "9550 Dice Lane",
+              "address2": null,
+              "city": "Lenexa",
+              "country": null,
+              "postal": "66215",
+              "state": "KS"
+            },
+            "name": "Rodrock & Associates Realtors"
+          },
+          "email": "REDACTED",
+          "name": "Tricia Cartwright",
+          "officeId": "HMS1007298",
+          "phones": [
+            "913-620-3852",
+            "913-681-5111"
+          ],
+          "photo": {
+            "large": null,
+            "small": null,
+            "updatedOn": null
+          },
+          "position": null,
+          "social": [],
+          "updatedOn": "2025-02-12 21:12:39",
+          "website": null
+        }
+      ],
+      "assignment": null,
+      "boardId": 110,
+      "class": "CondoProperty",
+      "condominium": {
+        "amenities": [],
+        "buildingInsurance": null,
+        "condoCorp": null,
+        "condoCorpNum": null,
+        "ensuiteLaundry": null,
+        "exposure": null,
+        "fees": {
+          "cableInlc": null,
+          "heatIncl": null,
+          "hydroIncl": null,
+          "maintenance": 825,
+          "parkingIncl": null,
+          "taxesIncl": null,
+          "waterIncl": null
+        },
+        "locker": null,
+        "lockerLevel": null,
+        "lockerNumber": null,
+        "lockerUnitNumber": null,
+        "parkingType": "Attached, Garage Faces Front",
+        "pets": null,
+        "propertyMgr": null,
+        "sharesPercentage": null,
+        "stories": null,
+        "unitNumber": null
+      },
+      "coopCompensation": null,
+      "daysOnMarket": 755,
+      "details": {
+        "HOAFee": "825",
+        "HOAFee2": null,
+        "HOAFee3": null,
+        "airConditioning": "Electric",
+        "alternateURLVideoLink": null,
+        "amperage": null,
+        "analyticsClick": null,
+        "balcony": "Covered, Patio",
+        "basement1": "Finished, Walk-Out Access",
+        "basement2": null,
+        "bathrooms": [],
+        "businessSubType": null,
+        "businessType": null,
+        "ceilingType": null,
+        "centralAirConditioning": null,
+        "centralVac": null,
+        "certificationLevel": null,
+        "commonElementsIncluded": null,
+        "constructionStatus": null,
+        "constructionStyleSplitLevel": null,
+        "den": null,
+        "description": "**** SAMPLE DATA **** MOVE IN READY! The \"Sonoma\" by Rodrock Homes is a reverse 1.5 story on a walkout lot backing to trees.  A beautiful homesite! The Great Room has huge windows to let in the sunshine with a view of many trees. The Kitchen has an oversized island with custom cabinets and access to a covered deck  The huge walk in pantry is tucked away with a full bath and bedroom behind the kitchen for privacy. Hang your coats at the drop zone off the garage door.  You will enjoy the view out the dining room windows next to kitchen that leads to the covered deck. The Primary bedroom suite has a private entry with an en suite bath that provides  dual vanities, shower and an enormous walk-in closet. The lower has a Recreation Room with a walk up bar and 2 more bedrooms and bath.  So many trees for afternoon- evening shade on the patio as this home faces west.  Stonebridge Trails is a Rodrock Community. Wonderful amenities with 2 clubhouses, 1 with work out facility, 4 pools, playgrounds, basketball and tennis courts and nature trails through out the neighborhood. Close to Heritage Park that provides a dog park, golfing, picnic areas and more! Taxes, square footage, and room dimensions are estimated. Buyer Agent or Buyer to verify. **** SAMPLE DATA ****",
+        "driveway": null,
+        "elevator": null,
+        "energuideRating": null,
+        "energyCertification": null,
+        "exteriorConstruction1": "Stone Trim, Stucco",
+        "exteriorConstruction2": null,
+        "extras": "Cooktop, Dishwasher, Disposal, Exhaust Fan, Humidifier, Microwave, Built-In Oven",
+        "familyRoom": null,
+        "farmType": null,
+        "fireProtection": null,
+        "flooringType": "Carpet, Tile, Wood",
+        "foundationType": null,
+        "furnished": null,
+        "garage": null,
+        "greenPropertyInformationStatement": null,
+        "handicappedEquipped": null,
+        "heating": "Forced Air",
+        "landAccessType": null,
+        "landDisposition": null,
+        "landSewer": null,
+        "landscapeFeatures": null,
+        "laundryLevel": null,
+        "leaseTerms": null,
+        "liveStreamEventURL": null,
+        "livingAreaMeasurement": null,
+        "loadingType": null,
+        "moreInformationLink": null,
+        "numBathrooms": 3,
+        "numBathroomsHalf": null,
+        "numBathroomsPlus": null,
+        "numBedrooms": 4,
+        "numBedroomsPlus": null,
+        "numDrivewaySpaces": null,
+        "numFireplaces": null,
+        "numGarageSpaces": 3,
+        "numKitchens": null,
+        "numKitchensPlus": null,
+        "numParkingSpaces": null,
+        "numRooms": null,
+        "numRoomsPlus": null,
+        "parkCostMonthly": null,
+        "patio": "Covered, Patio",
+        "propertyType": "Residential",
+        "roofMaterial": "Composition",
+        "sewer": "Public Sewer",
+        "sqft": "3004",
+        "sqftRange": null,
+        "storageType": null,
+        "style": "Single Family Residence",
+        "swimmingPool": null,
+        "viewType": null,
+        "virtualTourUrl": "https://my.matterport.com/show/?m=it8B3PxLpqQ",
+        "waterSource": "Public",
+        "waterfront": null,
+        "yearBuilt": "2023",
+        "zoning": null,
+        "zoningDescription": null,
+        "zoningType": null
+      },
+      "estimate": {
+        "confidence": 0.124550533295,
+        "date": "2025-08-06T20:07:34.003Z",
+        "high": 861275.8932017827,
+        "history": {
+          "mth": {
+            "2023-09": {
+              "value": 761449.125
+            },
+            "2023-10": {
+              "value": 761087.6875
+            },
+            "2023-11": {
+              "value": 761743
+            },
+            "2023-12": {
+              "value": 760771.875
+            },
+            "2024-01": {
+              "value": 759611.125
+            },
+            "2024-02": {
+              "value": 763436.6875
+            },
+            "2024-03": {
+              "value": 764616.875
+            },
+            "2024-04": {
+              "value": 763778.875
+            },
+            "2024-05": {
+              "value": 762393.375
+            },
+            "2024-06": {
+              "value": 760819.625
+            },
+            "2024-07": {
+              "value": 760088.6875
+            },
+            "2024-08": {
+              "value": 763087.875
+            },
+            "2024-09": {
+              "value": 762679.375
+            },
+            "2024-10": {
+              "value": 762843.25
+            },
+            "2024-11": {
+              "value": 762445
+            },
+            "2024-12": {
+              "value": 762973.375
+            },
+            "2025-01": {
+              "value": 762483.9375
+            },
+            "2025-02": {
+              "value": 763448.625
+            },
+            "2025-03": {
+              "value": 765588.375
+            },
+            "2025-04": {
+              "value": 765962.6875
+            },
+            "2025-05": {
+              "value": 762056.5625
+            },
+            "2025-06": {
+              "value": 762765.3125
+            },
+            "2025-07": {
+              "value": 763519
+            },
+            "2025-08": {
+              "value": 765884.5625
+            }
+          }
+        },
+        "low": 670493.2317982173,
+        "value": 765884.5625
+      },
+      "imageInsights": {
+        "images": [
+          {
+            "classification": {
+              "imageOf": "Front of Structure",
+              "prediction": 0.9788690209
+            },
+            "image": "sample/IMG-HMS2407250_0.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.1364750862
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9770201445
+            },
+            "image": "sample/IMG-HMS2407250_3.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 4.773627758
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9948943853
+            },
+            "image": "sample/IMG-HMS2407250_4.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 5.2779989243
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9937526584
+            },
+            "image": "sample/IMG-HMS2407250_5.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 5.1687984467
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9861852527
+            },
+            "image": "sample/IMG-HMS2407250_6.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.5184545517
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9907093048
+            },
+            "image": "sample/IMG-HMS2407250_7.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.3476009369
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9921187162
+            },
+            "image": "sample/IMG-HMS2407250_8.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.6518507004
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Patio",
+              "prediction": 0.9299304485
+            },
+            "image": "sample/IMG-HMS2407250_11.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Kitchen",
+              "prediction": 0.9902750254
+            },
+            "image": "sample/IMG-HMS2407250_12.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.2615909576
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Kitchen",
+              "prediction": 0.9936766028
+            },
+            "image": "sample/IMG-HMS2407250_14.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 5.0522155762
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Kitchen",
+              "prediction": 0.993073523
+            },
+            "image": "sample/IMG-HMS2407250_15.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.5409612656
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Kitchen",
+              "prediction": 0.9990475774
+            },
+            "image": "sample/IMG-HMS2407250_16.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 5.1148052216
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Office",
+              "prediction": 0.9857390523
+            },
+            "image": "sample/IMG-HMS2407250_19.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9999966621
+            },
+            "image": "sample/IMG-HMS2407250_20.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.8334684372
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bedroom",
+              "prediction": 0.9995461106
+            },
+            "image": "sample/IMG-HMS2407250_22.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.3557596207
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bedroom",
+              "prediction": 0.9999420643
+            },
+            "image": "sample/IMG-HMS2407250_23.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.4646987915
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9001826644
+            },
+            "image": "sample/IMG-HMS2407250_24.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.2505273819
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9999965429
+            },
+            "image": "sample/IMG-HMS2407250_25.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.676835537
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9963071346
+            },
+            "image": "sample/IMG-HMS2407250_26.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.3426818848
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9124815464
+            },
+            "image": "sample/IMG-HMS2407250_27.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.8061718941
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bedroom",
+              "prediction": 0.9996868372
+            },
+            "image": "sample/IMG-HMS2407250_30.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.8299694061
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9998278618
+            },
+            "image": "sample/IMG-HMS2407250_31.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.9039542675
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bedroom",
+              "prediction": 0.9996174574
+            },
+            "image": "sample/IMG-HMS2407250_32.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.7489361763
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Pool",
+              "prediction": 0.9980307221
+            },
+            "image": "sample/IMG-HMS2407250_37.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Pool",
+              "prediction": 0.9814060926
+            },
+            "image": "sample/IMG-HMS2407250_39.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Aerial View",
+              "prediction": 0.9884480834
+            },
+            "image": "sample/IMG-HMS2407250_40.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Pool",
+              "prediction": 0.9999601841
+            },
+            "image": "sample/IMG-HMS2407250_43.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Exercise Room",
+              "prediction": 0.9970752001
+            },
+            "image": "sample/IMG-HMS2407250_44.jpg",
+            "quality": null
+          }
+        ],
+        "summary": {
+          "quality": {
+            "qualitative": {
+              "features": {
+                "bathroom": "above average",
+                "bedroom": "above average",
+                "frontOfStructure": "average",
+                "kitchen": "excellent",
+                "livingRoom": "excellent"
+              },
+              "overall": "above average"
+            },
+            "quantitative": {
+              "features": {
+                "bathroom": 4.676835537,
+                "bedroom": 4.4646987915,
+                "frontOfStructure": 3.1364750862,
+                "kitchen": 5.1148052216,
+                "livingRoom": 5.2779989243
+              },
+              "overall": 4.676835537
+            }
+          }
+        }
+      },
+      "images": [
+        "sample/IMG-HMS2407250_0.jpg",
+        "sample/IMG-HMS2407250_1.jpg",
+        "sample/IMG-HMS2407250_2.jpg",
+        "sample/IMG-HMS2407250_3.jpg",
+        "sample/IMG-HMS2407250_4.jpg",
+        "sample/IMG-HMS2407250_5.jpg",
+        "sample/IMG-HMS2407250_6.jpg",
+        "sample/IMG-HMS2407250_7.jpg",
+        "sample/IMG-HMS2407250_8.jpg",
+        "sample/IMG-HMS2407250_9.jpg",
+        "sample/IMG-HMS2407250_10.jpg",
+        "sample/IMG-HMS2407250_11.jpg",
+        "sample/IMG-HMS2407250_12.jpg",
+        "sample/IMG-HMS2407250_13.jpg",
+        "sample/IMG-HMS2407250_14.jpg",
+        "sample/IMG-HMS2407250_15.jpg",
+        "sample/IMG-HMS2407250_16.jpg",
+        "sample/IMG-HMS2407250_17.jpg",
+        "sample/IMG-HMS2407250_18.jpg",
+        "sample/IMG-HMS2407250_19.jpg",
+        "sample/IMG-HMS2407250_20.jpg",
+        "sample/IMG-HMS2407250_21.jpg",
+        "sample/IMG-HMS2407250_22.jpg",
+        "sample/IMG-HMS2407250_23.jpg",
+        "sample/IMG-HMS2407250_24.jpg",
+        "sample/IMG-HMS2407250_25.jpg",
+        "sample/IMG-HMS2407250_26.jpg",
+        "sample/IMG-HMS2407250_27.jpg",
+        "sample/IMG-HMS2407250_28.jpg",
+        "sample/IMG-HMS2407250_29.jpg",
+        "sample/IMG-HMS2407250_30.jpg",
+        "sample/IMG-HMS2407250_31.jpg",
+        "sample/IMG-HMS2407250_32.jpg",
+        "sample/IMG-HMS2407250_33.jpg",
+        "sample/IMG-HMS2407250_34.jpg",
+        "sample/IMG-HMS2407250_35.jpg",
+        "sample/IMG-HMS2407250_36.jpg",
+        "sample/IMG-HMS2407250_37.jpg",
+        "sample/IMG-HMS2407250_38.jpg",
+        "sample/IMG-HMS2407250_39.jpg",
+        "sample/IMG-HMS2407250_40.jpg",
+        "sample/IMG-HMS2407250_41.jpg",
+        "sample/IMG-HMS2407250_42.jpg",
+        "sample/IMG-HMS2407250_43.jpg",
+        "sample/IMG-HMS2407250_44.jpg",
+        "sample/IMG-HMS2407250_45.jpg"
+      ],
+      "lastStatus": "New",
+      "listDate": "2025-11-01T00:00:00.000-00:00",
+      "listPrice": 750000,
+      "lot": {
+        "acres": null,
+        "depth": null,
+        "dimensions": null,
+        "dimensionsSource": null,
+        "features": "Adjoin Greenspace, Treed",
+        "irregular": null,
+        "legalDescription": "Lot 251, 6th Plat, Stonebridge Trails",
+        "measurement": "Square Feet",
+        "size": 10397,
+        "source": null,
+        "squareFeet": 10397,
+        "taxLot": null,
+        "width": null
+      },
+      "map": {
+        "latitude": 38.82685443,
+        "longitude": -94.77552582,
+        "point": "POINT (-94.77552582 38.82685443)"
+      },
+      "mlsNumber": "HMS2407250",
+      "nearby": {
+        "amenities": []
+      },
+      "occupancy": null,
+      "office": {
+        "brokerageName": "Rodrock & Associates Realtors"
+      },
+      "openHouse": [],
+      "originalPrice": 770201,
+      "permissions": {
+        "displayAddressOnInternet": "Y",
+        "displayInternetEntireListing": "Y",
+        "displayPublic": "Y"
+      },
+      "photoCount": 46,
+      "resource": "Property:2505",
+      "rooms": [
+        {
+          "description": "Kitchen",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Bedroom 1",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Bathroom 1",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Master Bedroom",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Master Bathroom",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Dining Room",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Laundry",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Bedroom 3",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Lower",
+          "width": null
+        },
+        {
+          "description": "Bathroom 3",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Lower",
+          "width": null
+        },
+        {
+          "description": "Bedroom 4",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Lower",
+          "width": null
+        },
+        {
+          "description": "Utility Room",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Lower",
+          "width": null
+        }
+      ],
+      "simpleDaysOnMarket": 14,
+      "soldDate": null,
+      "soldPrice": null,
+      "standardStatus": "Active",
+      "status": "A",
+      "taxes": {
+        "annualAmount": null,
+        "assessmentYear": null
+      },
+      "timestamps": {
+        "closedDate": null,
+        "conditionalExpiryDate": null,
+        "expiryDate": null,
+        "extensionEntryDate": null,
+        "idxUpdated": "2025-02-12T21:07:51.000-00:00",
+        "imageInsightsUpdatedOn": "2025-02-12T21:07:51.000-00:00",
+        "listingEntryDate": null,
+        "listingUpdated": "2025-02-12T21:07:51.000-00:00",
+        "photosUpdated": "2025-02-12T21:07:51.000-00:00",
+        "possessionDate": null,
+        "repliersUpdatedOn": "2025-11-01T00:53:59.377Z",
+        "suspendedDate": null,
+        "terminatedDate": null,
+        "unavailableDate": null
+      },
+      "type": "Sale",
+      "updatedOn": "2025-02-12T21:07:51.000-00:00"
+    },
+    {
+      "address": {
+        "addressKey": "hwy116highwayplattsburg",
+        "area": "Clinton",
+        "city": "Plattsburg",
+        "communityCode": null,
+        "country": null,
+        "district": null,
+        "majorIntersection": null,
+        "neighborhood": "None",
+        "state": "MO",
+        "streetDirection": null,
+        "streetDirectionPrefix": "W",
+        "streetName": "Hwy 116",
+        "streetNumber": null,
+        "streetSuffix": "Highway",
+        "unitNumber": null,
+        "zip": "64477"
+      },
+      "agents": [
+        {
+          "agentId": "HMS1052221",
+          "board": null,
+          "boardAgentId": "HMSAARTIGAS",
+          "boardOfficeId": "HMSSHOW04",
+          "brokerage": {
+            "address": {
+              "address1": "1200 W Clay Ave",
+              "address2": null,
+              "city": "Plattsburg",
+              "country": null,
+              "postal": "64477",
+              "state": "MO"
+            },
+            "name": "Show-me Real Estate"
+          },
+          "email": "REDACTED",
+          "name": "Amanda Artigas",
+          "officeId": "HMS1007518",
+          "phones": [
+            "816-804-3723",
+            "816-930-3160"
+          ],
+          "photo": {
+            "large": null,
+            "small": null,
+            "updatedOn": null
+          },
+          "position": null,
+          "social": [],
+          "updatedOn": "2025-02-12 21:12:27",
+          "website": null
+        }
+      ],
+      "assignment": null,
+      "boardId": 110,
+      "class": "ResidentialProperty",
+      "coopCompensation": null,
+      "daysOnMarket": 2584,
+      "details": {
+        "HOAFee": null,
+        "HOAFee2": null,
+        "HOAFee3": null,
+        "airConditioning": null,
+        "alternateURLVideoLink": null,
+        "amperage": null,
+        "analyticsClick": null,
+        "basement1": null,
+        "basement2": null,
+        "bathrooms": [],
+        "businessSubType": null,
+        "businessType": null,
+        "ceilingType": null,
+        "centralAirConditioning": null,
+        "centralVac": null,
+        "certificationLevel": null,
+        "commonElementsIncluded": null,
+        "constructionStatus": null,
+        "constructionStyleSplitLevel": null,
+        "den": null,
+        "description": "**** SAMPLE DATA **** Prime location for your next business venture! With just over half an acre of flat land this property is ready to build on!  Lays right along 116 Hwy and Bush Street. Plattsburg is a flourishing community eager for new businesses to come to town! **** SAMPLE DATA ****",
+        "driveway": null,
+        "elevator": null,
+        "energuideRating": null,
+        "energyCertification": null,
+        "exteriorConstruction1": null,
+        "exteriorConstruction2": null,
+        "extras": null,
+        "familyRoom": null,
+        "farmType": null,
+        "fireProtection": null,
+        "flooringType": null,
+        "foundationType": null,
+        "furnished": null,
+        "garage": null,
+        "greenPropertyInformationStatement": null,
+        "handicappedEquipped": null,
+        "heating": null,
+        "landAccessType": null,
+        "landDisposition": null,
+        "landSewer": null,
+        "landscapeFeatures": null,
+        "laundryLevel": null,
+        "leaseTerms": null,
+        "liveStreamEventURL": null,
+        "livingAreaMeasurement": null,
+        "loadingType": null,
+        "moreInformationLink": null,
+        "numBathrooms": null,
+        "numBathroomsHalf": null,
+        "numBathroomsPlus": null,
+        "numBedrooms": null,
+        "numBedroomsPlus": null,
+        "numDrivewaySpaces": null,
+        "numFireplaces": null,
+        "numGarageSpaces": null,
+        "numKitchens": null,
+        "numKitchensPlus": null,
+        "numParkingSpaces": null,
+        "numRooms": null,
+        "numRoomsPlus": null,
+        "parkCostMonthly": null,
+        "patio": null,
+        "propertyType": "Land",
+        "roofMaterial": null,
+        "sewer": "Public Sewer",
+        "sqft": null,
+        "sqftRange": null,
+        "storageType": null,
+        "style": "Unimproved Land",
+        "swimmingPool": null,
+        "viewType": null,
+        "virtualTourUrl": null,
+        "waterSource": "City/Public - Verify",
+        "waterfront": null,
+        "yearBuilt": null,
+        "zoning": "C2",
+        "zoningDescription": null,
+        "zoningType": null
+      },
+      "estimate": {
+        "confidence": 0.249763793945,
+        "date": "2025-08-06T20:07:29.983Z",
+        "high": 97875.1636487859,
+        "history": {
+          "mth": {
+            "2023-09": {
+              "value": 70635.015625
+            },
+            "2023-10": {
+              "value": 69234.34375
+            },
+            "2023-11": {
+              "value": 69171.359375
+            },
+            "2023-12": {
+              "value": 69509.421875
+            },
+            "2024-01": {
+              "value": 69843.171875
+            },
+            "2024-02": {
+              "value": 71636.6015625
+            },
+            "2024-03": {
+              "value": 77489.71875
+            },
+            "2024-04": {
+              "value": 78877.1953125
+            },
+            "2024-05": {
+              "value": 77626.5859375
+            },
+            "2024-06": {
+              "value": 77581.5234375
+            },
+            "2024-07": {
+              "value": 78013.4765625
+            },
+            "2024-08": {
+              "value": 77562.09375
+            },
+            "2024-09": {
+              "value": 77475.890625
+            },
+            "2024-10": {
+              "value": 76333.2890625
+            },
+            "2024-11": {
+              "value": 75293.921875
+            },
+            "2024-12": {
+              "value": 75310.21875
+            },
+            "2025-01": {
+              "value": 76338.109375
+            },
+            "2025-02": {
+              "value": 75952.6796875
+            },
+            "2025-03": {
+              "value": 76503.3125
+            },
+            "2025-04": {
+              "value": 73810.3671875
+            },
+            "2025-05": {
+              "value": 75541.078125
+            },
+            "2025-06": {
+              "value": 75149.1953125
+            },
+            "2025-07": {
+              "value": 76086.515625
+            },
+            "2025-08": {
+              "value": 78314.9296875
+            }
+          }
+        },
+        "low": 58754.695726214086,
+        "value": 78314.9296875
+      },
+      "imageInsights": {
+        "images": [
+          {
+            "classification": {
+              "imageOf": "Aerial View",
+              "prediction": 0.9828194976
+            },
+            "image": "sample/IMG-HMS2085582_0.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Aerial View",
+              "prediction": 0.9706893563
+            },
+            "image": "sample/IMG-HMS2085582_3.jpg",
+            "quality": null
+          }
+        ],
+        "summary": {
+          "quality": {
+            "qualitative": {
+              "features": {},
+              "overall": "poor"
+            },
+            "quantitative": {
+              "features": {},
+              "overall": 0
+            }
+          }
+        }
+      },
+      "images": [
+        "sample/IMG-HMS2085582_0.jpg",
+        "sample/IMG-HMS2085582_1.jpg",
+        "sample/IMG-HMS2085582_2.jpg",
+        "sample/IMG-HMS2085582_3.jpg"
+      ],
+      "lastStatus": "New",
+      "listDate": "2025-11-01T00:00:00.000-00:00",
+      "listPrice": 59750,
+      "lot": {
+        "acres": null,
+        "depth": null,
+        "dimensions": null,
+        "dimensionsSource": null,
+        "features": null,
+        "irregular": null,
+        "legalDescription": null,
+        "measurement": "Acres",
+        "size": 0.56,
+        "source": null,
+        "squareFeet": 24393.6,
+        "taxLot": null,
+        "width": null
+      },
+      "map": {
+        "latitude": 39.564857,
+        "longitude": -94.47302,
+        "point": "POINT (-94.47302 39.564857)"
+      },
+      "mlsNumber": "HMS2085582",
+      "nearby": {
+        "amenities": []
+      },
+      "occupancy": null,
+      "office": {
+        "brokerageName": "Show-me Real Estate"
+      },
+      "openHouse": [],
+      "originalPrice": 69000,
+      "permissions": {
+        "displayAddressOnInternet": "Y",
+        "displayInternetEntireListing": "Y",
+        "displayPublic": "Y"
+      },
+      "photoCount": 4,
+      "resource": "Property:2505",
+      "rooms": [],
+      "simpleDaysOnMarket": 14,
+      "soldDate": null,
+      "soldPrice": null,
+      "standardStatus": "Active",
+      "status": "A",
+      "taxes": {
+        "annualAmount": null,
+        "assessmentYear": null
+      },
+      "timestamps": {
+        "closedDate": null,
+        "conditionalExpiryDate": null,
+        "expiryDate": null,
+        "extensionEntryDate": null,
+        "idxUpdated": "2025-02-12T21:07:50.000-00:00",
+        "imageInsightsUpdatedOn": "2025-02-12T21:07:50.000-00:00",
+        "listingEntryDate": null,
+        "listingUpdated": "2025-02-12T21:07:50.000-00:00",
+        "photosUpdated": "2025-02-12T21:07:50.000-00:00",
+        "possessionDate": null,
+        "repliersUpdatedOn": "2025-11-01T00:54:00.066Z",
+        "suspendedDate": null,
+        "terminatedDate": null,
+        "unavailableDate": null
+      },
+      "type": "Sale",
+      "updatedOn": "2025-02-12T21:07:50.000-00:00"
+    },
+    {
+      "address": {
+        "addressKey": "16328166thplaceolathe",
+        "area": "Johnson, KS",
+        "city": "Olathe",
+        "communityCode": null,
+        "country": null,
+        "district": null,
+        "majorIntersection": null,
+        "neighborhood": "Stonebridge Trails",
+        "state": "KS",
+        "streetDirection": null,
+        "streetDirectionPrefix": "W",
+        "streetName": "166th",
+        "streetNumber": "16328",
+        "streetSuffix": "Place",
+        "unitNumber": null,
+        "zip": "66062"
+      },
+      "agents": [
+        {
+          "agentId": "HMS1050497",
+          "board": null,
+          "boardAgentId": "HMSSCHRAD",
+          "boardOfficeId": "HMSRODR",
+          "brokerage": {
+            "address": {
+              "address1": "9550 Dice Lane",
+              "address2": null,
+              "city": "Lenexa",
+              "country": null,
+              "postal": "66215",
+              "state": "KS"
+            },
+            "name": "Rodrock & Associates Realtors"
+          },
+          "email": "REDACTED",
+          "name": "Robyn Schraden",
+          "officeId": "HMS1007298",
+          "phones": [
+            "913-515-5065",
+            "913-681-5111"
+          ],
+          "photo": {
+            "large": null,
+            "small": null,
+            "updatedOn": null
+          },
+          "position": null,
+          "social": [],
+          "updatedOn": "2025-02-12 21:12:26",
+          "website": null
+        },
+        {
+          "agentId": "HMS38546021",
+          "board": null,
+          "boardAgentId": "HMS413585209",
+          "boardOfficeId": "HMSRODR",
+          "brokerage": {
+            "address": {
+              "address1": "9550 Dice Lane",
+              "address2": null,
+              "city": "Lenexa",
+              "country": null,
+              "postal": "66215",
+              "state": "KS"
+            },
+            "name": "Rodrock & Associates Realtors"
+          },
+          "email": "REDACTED",
+          "name": "Tricia Cartwright",
+          "officeId": "HMS1007298",
+          "phones": [
+            "913-620-3852",
+            "913-681-5111"
+          ],
+          "photo": {
+            "large": null,
+            "small": null,
+            "updatedOn": null
+          },
+          "position": null,
+          "social": [],
+          "updatedOn": "2025-02-12 21:12:39",
+          "website": null
+        }
+      ],
+      "assignment": null,
+      "boardId": 110,
+      "class": "CondoProperty",
+      "condominium": {
+        "amenities": [],
+        "buildingInsurance": null,
+        "condoCorp": null,
+        "condoCorpNum": null,
+        "ensuiteLaundry": null,
+        "exposure": null,
+        "fees": {
+          "cableInlc": null,
+          "heatIncl": null,
+          "hydroIncl": null,
+          "maintenance": 825,
+          "parkingIncl": null,
+          "taxesIncl": null,
+          "waterIncl": null
+        },
+        "locker": null,
+        "lockerLevel": null,
+        "lockerNumber": null,
+        "lockerUnitNumber": null,
+        "parkingType": "Attached, Garage Faces Front",
+        "pets": null,
+        "propertyMgr": null,
+        "sharesPercentage": null,
+        "stories": null,
+        "unitNumber": null
+      },
+      "coopCompensation": null,
+      "daysOnMarket": 755,
+      "details": {
+        "HOAFee": "825",
+        "HOAFee2": null,
+        "HOAFee3": null,
+        "airConditioning": "Electric",
+        "alternateURLVideoLink": null,
+        "amperage": null,
+        "analyticsClick": null,
+        "balcony": "Covered, Patio",
+        "basement1": "Finished, Walk-Out Access",
+        "basement2": null,
+        "bathrooms": [],
+        "businessSubType": null,
+        "businessType": null,
+        "ceilingType": null,
+        "centralAirConditioning": null,
+        "centralVac": null,
+        "certificationLevel": null,
+        "commonElementsIncluded": null,
+        "constructionStatus": null,
+        "constructionStyleSplitLevel": null,
+        "den": null,
+        "description": "**** SAMPLE DATA **** MOVE IN READY! The \"Sonoma\" by Rodrock Homes is a reverse 1.5 story on a walkout lot backing to trees.  A beautiful homesite! The Great Room has huge windows to let in the sunshine with a view of many trees. The Kitchen has an oversized island with custom cabinets and access to a covered deck  The huge walk in pantry is tucked away with a full bath and bedroom behind the kitchen for privacy. Hang your coats at the drop zone off the garage door.  You will enjoy the view out the dining room windows next to kitchen that leads to the covered deck. The Primary bedroom suite has a private entry with an en suite bath that provides  dual vanities, shower and an enormous walk-in closet. The lower has a Recreation Room with a walk up bar and 2 more bedrooms and bath.  So many trees for afternoon- evening shade on the patio as this home faces west.  Stonebridge Trails is a Rodrock Community. Wonderful amenities with 2 clubhouses, 1 with work out facility, 4 pools, playgrounds, basketball and tennis courts and nature trails through out the neighborhood. Close to Heritage Park that provides a dog park, golfing, picnic areas and more! Taxes, square footage, and room dimensions are estimated. Buyer Agent or Buyer to verify. **** SAMPLE DATA ****",
+        "driveway": null,
+        "elevator": null,
+        "energuideRating": null,
+        "energyCertification": null,
+        "exteriorConstruction1": "Stone Trim, Stucco",
+        "exteriorConstruction2": null,
+        "extras": "Cooktop, Dishwasher, Disposal, Exhaust Fan, Humidifier, Microwave, Built-In Oven",
+        "familyRoom": null,
+        "farmType": null,
+        "fireProtection": null,
+        "flooringType": "Carpet, Tile, Wood",
+        "foundationType": null,
+        "furnished": null,
+        "garage": null,
+        "greenPropertyInformationStatement": null,
+        "handicappedEquipped": null,
+        "heating": "Forced Air",
+        "landAccessType": null,
+        "landDisposition": null,
+        "landSewer": null,
+        "landscapeFeatures": null,
+        "laundryLevel": null,
+        "leaseTerms": null,
+        "liveStreamEventURL": null,
+        "livingAreaMeasurement": null,
+        "loadingType": null,
+        "moreInformationLink": null,
+        "numBathrooms": 3,
+        "numBathroomsHalf": null,
+        "numBathroomsPlus": null,
+        "numBedrooms": 4,
+        "numBedroomsPlus": null,
+        "numDrivewaySpaces": null,
+        "numFireplaces": null,
+        "numGarageSpaces": 3,
+        "numKitchens": null,
+        "numKitchensPlus": null,
+        "numParkingSpaces": null,
+        "numRooms": null,
+        "numRoomsPlus": null,
+        "parkCostMonthly": null,
+        "patio": "Covered, Patio",
+        "propertyType": "Residential",
+        "roofMaterial": "Composition",
+        "sewer": "Public Sewer",
+        "sqft": "3004",
+        "sqftRange": null,
+        "storageType": null,
+        "style": "Single Family Residence",
+        "swimmingPool": null,
+        "viewType": null,
+        "virtualTourUrl": "https://my.matterport.com/show/?m=it8B3PxLpqQ",
+        "waterSource": "Public",
+        "waterfront": null,
+        "yearBuilt": "2023",
+        "zoning": null,
+        "zoningDescription": null,
+        "zoningType": null
+      },
+      "estimate": {
+        "confidence": 0.124550533295,
+        "date": "2025-08-06T20:07:34.003Z",
+        "high": 861275.8932017827,
+        "history": {
+          "mth": {
+            "2023-09": {
+              "value": 761449.125
+            },
+            "2023-10": {
+              "value": 761087.6875
+            },
+            "2023-11": {
+              "value": 761743
+            },
+            "2023-12": {
+              "value": 760771.875
+            },
+            "2024-01": {
+              "value": 759611.125
+            },
+            "2024-02": {
+              "value": 763436.6875
+            },
+            "2024-03": {
+              "value": 764616.875
+            },
+            "2024-04": {
+              "value": 763778.875
+            },
+            "2024-05": {
+              "value": 762393.375
+            },
+            "2024-06": {
+              "value": 760819.625
+            },
+            "2024-07": {
+              "value": 760088.6875
+            },
+            "2024-08": {
+              "value": 763087.875
+            },
+            "2024-09": {
+              "value": 762679.375
+            },
+            "2024-10": {
+              "value": 762843.25
+            },
+            "2024-11": {
+              "value": 762445
+            },
+            "2024-12": {
+              "value": 762973.375
+            },
+            "2025-01": {
+              "value": 762483.9375
+            },
+            "2025-02": {
+              "value": 763448.625
+            },
+            "2025-03": {
+              "value": 765588.375
+            },
+            "2025-04": {
+              "value": 765962.6875
+            },
+            "2025-05": {
+              "value": 762056.5625
+            },
+            "2025-06": {
+              "value": 762765.3125
+            },
+            "2025-07": {
+              "value": 763519
+            },
+            "2025-08": {
+              "value": 765884.5625
+            }
+          }
+        },
+        "low": 670493.2317982173,
+        "value": 765884.5625
+      },
+      "imageInsights": {
+        "images": [
+          {
+            "classification": {
+              "imageOf": "Front of Structure",
+              "prediction": 0.9788690209
+            },
+            "image": "sample/IMG-HMS2407250_0.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.1364750862
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9770201445
+            },
+            "image": "sample/IMG-HMS2407250_3.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 4.773627758
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9948943853
+            },
+            "image": "sample/IMG-HMS2407250_4.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 5.2779989243
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9937526584
+            },
+            "image": "sample/IMG-HMS2407250_5.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 5.1687984467
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9861852527
+            },
+            "image": "sample/IMG-HMS2407250_6.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.5184545517
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9907093048
+            },
+            "image": "sample/IMG-HMS2407250_7.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.3476009369
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9921187162
+            },
+            "image": "sample/IMG-HMS2407250_8.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.6518507004
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Patio",
+              "prediction": 0.9299304485
+            },
+            "image": "sample/IMG-HMS2407250_11.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Kitchen",
+              "prediction": 0.9902750254
+            },
+            "image": "sample/IMG-HMS2407250_12.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.2615909576
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Kitchen",
+              "prediction": 0.9936766028
+            },
+            "image": "sample/IMG-HMS2407250_14.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 5.0522155762
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Kitchen",
+              "prediction": 0.993073523
+            },
+            "image": "sample/IMG-HMS2407250_15.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.5409612656
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Kitchen",
+              "prediction": 0.9990475774
+            },
+            "image": "sample/IMG-HMS2407250_16.jpg",
+            "quality": {
+              "qualitative": "excellent",
+              "quantitative": 5.1148052216
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Office",
+              "prediction": 0.9857390523
+            },
+            "image": "sample/IMG-HMS2407250_19.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9999966621
+            },
+            "image": "sample/IMG-HMS2407250_20.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.8334684372
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bedroom",
+              "prediction": 0.9995461106
+            },
+            "image": "sample/IMG-HMS2407250_22.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.3557596207
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bedroom",
+              "prediction": 0.9999420643
+            },
+            "image": "sample/IMG-HMS2407250_23.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.4646987915
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9001826644
+            },
+            "image": "sample/IMG-HMS2407250_24.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.2505273819
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9999965429
+            },
+            "image": "sample/IMG-HMS2407250_25.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.676835537
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9963071346
+            },
+            "image": "sample/IMG-HMS2407250_26.jpg",
+            "quality": {
+              "qualitative": "above average",
+              "quantitative": 4.3426818848
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Living Room",
+              "prediction": 0.9124815464
+            },
+            "image": "sample/IMG-HMS2407250_27.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.8061718941
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bedroom",
+              "prediction": 0.9996868372
+            },
+            "image": "sample/IMG-HMS2407250_30.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.8299694061
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bathroom",
+              "prediction": 0.9998278618
+            },
+            "image": "sample/IMG-HMS2407250_31.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.9039542675
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Bedroom",
+              "prediction": 0.9996174574
+            },
+            "image": "sample/IMG-HMS2407250_32.jpg",
+            "quality": {
+              "qualitative": "average",
+              "quantitative": 3.7489361763
+            }
+          },
+          {
+            "classification": {
+              "imageOf": "Pool",
+              "prediction": 0.9980307221
+            },
+            "image": "sample/IMG-HMS2407250_37.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Pool",
+              "prediction": 0.9814060926
+            },
+            "image": "sample/IMG-HMS2407250_39.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Aerial View",
+              "prediction": 0.9884480834
+            },
+            "image": "sample/IMG-HMS2407250_40.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Pool",
+              "prediction": 0.9999601841
+            },
+            "image": "sample/IMG-HMS2407250_43.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Exercise Room",
+              "prediction": 0.9970752001
+            },
+            "image": "sample/IMG-HMS2407250_44.jpg",
+            "quality": null
+          }
+        ],
+        "summary": {
+          "quality": {
+            "qualitative": {
+              "features": {
+                "bathroom": "above average",
+                "bedroom": "above average",
+                "frontOfStructure": "average",
+                "kitchen": "excellent",
+                "livingRoom": "excellent"
+              },
+              "overall": "above average"
+            },
+            "quantitative": {
+              "features": {
+                "bathroom": 4.676835537,
+                "bedroom": 4.4646987915,
+                "frontOfStructure": 3.1364750862,
+                "kitchen": 5.1148052216,
+                "livingRoom": 5.2779989243
+              },
+              "overall": 4.676835537
+            }
+          }
+        }
+      },
+      "images": [
+        "sample/IMG-HMS2407250_0.jpg",
+        "sample/IMG-HMS2407250_1.jpg",
+        "sample/IMG-HMS2407250_2.jpg",
+        "sample/IMG-HMS2407250_3.jpg",
+        "sample/IMG-HMS2407250_4.jpg",
+        "sample/IMG-HMS2407250_5.jpg",
+        "sample/IMG-HMS2407250_6.jpg",
+        "sample/IMG-HMS2407250_7.jpg",
+        "sample/IMG-HMS2407250_8.jpg",
+        "sample/IMG-HMS2407250_9.jpg",
+        "sample/IMG-HMS2407250_10.jpg",
+        "sample/IMG-HMS2407250_11.jpg",
+        "sample/IMG-HMS2407250_12.jpg",
+        "sample/IMG-HMS2407250_13.jpg",
+        "sample/IMG-HMS2407250_14.jpg",
+        "sample/IMG-HMS2407250_15.jpg",
+        "sample/IMG-HMS2407250_16.jpg",
+        "sample/IMG-HMS2407250_17.jpg",
+        "sample/IMG-HMS2407250_18.jpg",
+        "sample/IMG-HMS2407250_19.jpg",
+        "sample/IMG-HMS2407250_20.jpg",
+        "sample/IMG-HMS2407250_21.jpg",
+        "sample/IMG-HMS2407250_22.jpg",
+        "sample/IMG-HMS2407250_23.jpg",
+        "sample/IMG-HMS2407250_24.jpg",
+        "sample/IMG-HMS2407250_25.jpg",
+        "sample/IMG-HMS2407250_26.jpg",
+        "sample/IMG-HMS2407250_27.jpg",
+        "sample/IMG-HMS2407250_28.jpg",
+        "sample/IMG-HMS2407250_29.jpg",
+        "sample/IMG-HMS2407250_30.jpg",
+        "sample/IMG-HMS2407250_31.jpg",
+        "sample/IMG-HMS2407250_32.jpg",
+        "sample/IMG-HMS2407250_33.jpg",
+        "sample/IMG-HMS2407250_34.jpg",
+        "sample/IMG-HMS2407250_35.jpg",
+        "sample/IMG-HMS2407250_36.jpg",
+        "sample/IMG-HMS2407250_37.jpg",
+        "sample/IMG-HMS2407250_38.jpg",
+        "sample/IMG-HMS2407250_39.jpg",
+        "sample/IMG-HMS2407250_40.jpg",
+        "sample/IMG-HMS2407250_41.jpg",
+        "sample/IMG-HMS2407250_42.jpg",
+        "sample/IMG-HMS2407250_43.jpg",
+        "sample/IMG-HMS2407250_44.jpg",
+        "sample/IMG-HMS2407250_45.jpg"
+      ],
+      "lastStatus": "New",
+      "listDate": "2025-11-01T00:00:00.000-00:00",
+      "listPrice": 750000,
+      "lot": {
+        "acres": null,
+        "depth": null,
+        "dimensions": null,
+        "dimensionsSource": null,
+        "features": "Adjoin Greenspace, Treed",
+        "irregular": null,
+        "legalDescription": "Lot 251, 6th Plat, Stonebridge Trails",
+        "measurement": "Square Feet",
+        "size": 10397,
+        "source": null,
+        "squareFeet": 10397,
+        "taxLot": null,
+        "width": null
+      },
+      "map": {
+        "latitude": 38.82685443,
+        "longitude": -94.77552582,
+        "point": "POINT (-94.77552582 38.82685443)"
+      },
+      "mlsNumber": "HMS2407250",
+      "nearby": {
+        "amenities": []
+      },
+      "occupancy": null,
+      "office": {
+        "brokerageName": "Rodrock & Associates Realtors"
+      },
+      "openHouse": [],
+      "originalPrice": 770201,
+      "permissions": {
+        "displayAddressOnInternet": "Y",
+        "displayInternetEntireListing": "Y",
+        "displayPublic": "Y"
+      },
+      "photoCount": 46,
+      "resource": "Property:2505",
+      "rooms": [
+        {
+          "description": "Kitchen",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Bedroom 1",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Bathroom 1",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Master Bedroom",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Master Bathroom",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Dining Room",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Laundry",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Main",
+          "width": null
+        },
+        {
+          "description": "Bedroom 3",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Lower",
+          "width": null
+        },
+        {
+          "description": "Bathroom 3",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Lower",
+          "width": null
+        },
+        {
+          "description": "Bedroom 4",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Lower",
+          "width": null
+        },
+        {
+          "description": "Utility Room",
+          "features": null,
+          "features2": null,
+          "features3": null,
+          "length": null,
+          "level": "Lower",
+          "width": null
+        }
+      ],
+      "simpleDaysOnMarket": 14,
+      "soldDate": null,
+      "soldPrice": null,
+      "standardStatus": "Active",
+      "status": "A",
+      "taxes": {
+        "annualAmount": null,
+        "assessmentYear": null
+      },
+      "timestamps": {
+        "closedDate": null,
+        "conditionalExpiryDate": null,
+        "expiryDate": null,
+        "extensionEntryDate": null,
+        "idxUpdated": "2025-02-12T21:07:51.000-00:00",
+        "imageInsightsUpdatedOn": "2025-02-12T21:07:51.000-00:00",
+        "listingEntryDate": null,
+        "listingUpdated": "2025-02-12T21:07:51.000-00:00",
+        "photosUpdated": "2025-02-12T21:07:51.000-00:00",
+        "possessionDate": null,
+        "repliersUpdatedOn": "2025-11-01T00:53:59.377Z",
+        "suspendedDate": null,
+        "terminatedDate": null,
+        "unavailableDate": null
+      },
+      "type": "Sale",
+      "updatedOn": "2025-02-12T21:07:51.000-00:00"
+    },
+    {
+      "address": {
+        "addressKey": "hwy116highwayplattsburg",
+        "area": "Clinton",
+        "city": "Plattsburg",
+        "communityCode": null,
+        "country": null,
+        "district": null,
+        "majorIntersection": null,
+        "neighborhood": "None",
+        "state": "MO",
+        "streetDirection": null,
+        "streetDirectionPrefix": "W",
+        "streetName": "Hwy 116",
+        "streetNumber": null,
+        "streetSuffix": "Highway",
+        "unitNumber": null,
+        "zip": "64477"
+      },
+      "agents": [
+        {
+          "agentId": "HMS1052221",
+          "board": null,
+          "boardAgentId": "HMSAARTIGAS",
+          "boardOfficeId": "HMSSHOW04",
+          "brokerage": {
+            "address": {
+              "address1": "1200 W Clay Ave",
+              "address2": null,
+              "city": "Plattsburg",
+              "country": null,
+              "postal": "64477",
+              "state": "MO"
+            },
+            "name": "Show-me Real Estate"
+          },
+          "email": "REDACTED",
+          "name": "Amanda Artigas",
+          "officeId": "HMS1007518",
+          "phones": [
+            "816-804-3723",
+            "816-930-3160"
+          ],
+          "photo": {
+            "large": null,
+            "small": null,
+            "updatedOn": null
+          },
+          "position": null,
+          "social": [],
+          "updatedOn": "2025-02-12 21:12:27",
+          "website": null
+        }
+      ],
+      "assignment": null,
+      "boardId": 110,
+      "class": "ResidentialProperty",
+      "coopCompensation": null,
+      "daysOnMarket": 2584,
+      "details": {
+        "HOAFee": null,
+        "HOAFee2": null,
+        "HOAFee3": null,
+        "airConditioning": null,
+        "alternateURLVideoLink": null,
+        "amperage": null,
+        "analyticsClick": null,
+        "basement1": null,
+        "basement2": null,
+        "bathrooms": [],
+        "businessSubType": null,
+        "businessType": null,
+        "ceilingType": null,
+        "centralAirConditioning": null,
+        "centralVac": null,
+        "certificationLevel": null,
+        "commonElementsIncluded": null,
+        "constructionStatus": null,
+        "constructionStyleSplitLevel": null,
+        "den": null,
+        "description": "**** SAMPLE DATA **** Prime location for your next business venture! With just over half an acre of flat land this property is ready to build on!  Lays right along 116 Hwy and Bush Street. Plattsburg is a flourishing community eager for new businesses to come to town! **** SAMPLE DATA ****",
+        "driveway": null,
+        "elevator": null,
+        "energuideRating": null,
+        "energyCertification": null,
+        "exteriorConstruction1": null,
+        "exteriorConstruction2": null,
+        "extras": null,
+        "familyRoom": null,
+        "farmType": null,
+        "fireProtection": null,
+        "flooringType": null,
+        "foundationType": null,
+        "furnished": null,
+        "garage": null,
+        "greenPropertyInformationStatement": null,
+        "handicappedEquipped": null,
+        "heating": null,
+        "landAccessType": null,
+        "landDisposition": null,
+        "landSewer": null,
+        "landscapeFeatures": null,
+        "laundryLevel": null,
+        "leaseTerms": null,
+        "liveStreamEventURL": null,
+        "livingAreaMeasurement": null,
+        "loadingType": null,
+        "moreInformationLink": null,
+        "numBathrooms": null,
+        "numBathroomsHalf": null,
+        "numBathroomsPlus": null,
+        "numBedrooms": null,
+        "numBedroomsPlus": null,
+        "numDrivewaySpaces": null,
+        "numFireplaces": null,
+        "numGarageSpaces": null,
+        "numKitchens": null,
+        "numKitchensPlus": null,
+        "numParkingSpaces": null,
+        "numRooms": null,
+        "numRoomsPlus": null,
+        "parkCostMonthly": null,
+        "patio": null,
+        "propertyType": "Land",
+        "roofMaterial": null,
+        "sewer": "Public Sewer",
+        "sqft": null,
+        "sqftRange": null,
+        "storageType": null,
+        "style": "Unimproved Land",
+        "swimmingPool": null,
+        "viewType": null,
+        "virtualTourUrl": null,
+        "waterSource": "City/Public - Verify",
+        "waterfront": null,
+        "yearBuilt": null,
+        "zoning": "C2",
+        "zoningDescription": null,
+        "zoningType": null
+      },
+      "estimate": {
+        "confidence": 0.249763793945,
+        "date": "2025-08-06T20:07:29.983Z",
+        "high": 97875.1636487859,
+        "history": {
+          "mth": {
+            "2023-09": {
+              "value": 70635.015625
+            },
+            "2023-10": {
+              "value": 69234.34375
+            },
+            "2023-11": {
+              "value": 69171.359375
+            },
+            "2023-12": {
+              "value": 69509.421875
+            },
+            "2024-01": {
+              "value": 69843.171875
+            },
+            "2024-02": {
+              "value": 71636.6015625
+            },
+            "2024-03": {
+              "value": 77489.71875
+            },
+            "2024-04": {
+              "value": 78877.1953125
+            },
+            "2024-05": {
+              "value": 77626.5859375
+            },
+            "2024-06": {
+              "value": 77581.5234375
+            },
+            "2024-07": {
+              "value": 78013.4765625
+            },
+            "2024-08": {
+              "value": 77562.09375
+            },
+            "2024-09": {
+              "value": 77475.890625
+            },
+            "2024-10": {
+              "value": 76333.2890625
+            },
+            "2024-11": {
+              "value": 75293.921875
+            },
+            "2024-12": {
+              "value": 75310.21875
+            },
+            "2025-01": {
+              "value": 76338.109375
+            },
+            "2025-02": {
+              "value": 75952.6796875
+            },
+            "2025-03": {
+              "value": 76503.3125
+            },
+            "2025-04": {
+              "value": 73810.3671875
+            },
+            "2025-05": {
+              "value": 75541.078125
+            },
+            "2025-06": {
+              "value": 75149.1953125
+            },
+            "2025-07": {
+              "value": 76086.515625
+            },
+            "2025-08": {
+              "value": 78314.9296875
+            }
+          }
+        },
+        "low": 58754.695726214086,
+        "value": 78314.9296875
+      },
+      "imageInsights": {
+        "images": [
+          {
+            "classification": {
+              "imageOf": "Aerial View",
+              "prediction": 0.9828194976
+            },
+            "image": "sample/IMG-HMS2085582_0.jpg",
+            "quality": null
+          },
+          {
+            "classification": {
+              "imageOf": "Aerial View",
+              "prediction": 0.9706893563
+            },
+            "image": "sample/IMG-HMS2085582_3.jpg",
+            "quality": null
+          }
+        ],
+        "summary": {
+          "quality": {
+            "qualitative": {
+              "features": {},
+              "overall": "poor"
+            },
+            "quantitative": {
+              "features": {},
+              "overall": 0
+            }
+          }
+        }
+      },
+      "images": [
+        "sample/IMG-HMS2085582_0.jpg",
+        "sample/IMG-HMS2085582_1.jpg",
+        "sample/IMG-HMS2085582_2.jpg",
+        "sample/IMG-HMS2085582_3.jpg"
+      ],
+      "lastStatus": "New",
+      "listDate": "2025-11-01T00:00:00.000-00:00",
+      "listPrice": 59750,
+      "lot": {
+        "acres": null,
+        "depth": null,
+        "dimensions": null,
+        "dimensionsSource": null,
+        "features": null,
+        "irregular": null,
+        "legalDescription": null,
+        "measurement": "Acres",
+        "size": 0.56,
+        "source": null,
+        "squareFeet": 24393.6,
+        "taxLot": null,
+        "width": null
+      },
+      "map": {
+        "latitude": 39.564857,
+        "longitude": -94.47302,
+        "point": "POINT (-94.47302 39.564857)"
+      },
+      "mlsNumber": "HMS2085582",
+      "nearby": {
+        "amenities": []
+      },
+      "occupancy": null,
+      "office": {
+        "brokerageName": "Show-me Real Estate"
+      },
+      "openHouse": [],
+      "originalPrice": 69000,
+      "permissions": {
+        "displayAddressOnInternet": "Y",
+        "displayInternetEntireListing": "Y",
+        "displayPublic": "Y"
+      },
+      "photoCount": 4,
+      "resource": "Property:2505",
+      "rooms": [],
+      "simpleDaysOnMarket": 14,
+      "soldDate": null,
+      "soldPrice": null,
+      "standardStatus": "Active",
+      "status": "A",
+      "taxes": {
+        "annualAmount": null,
+        "assessmentYear": null
+      },
+      "timestamps": {
+        "closedDate": null,
+        "conditionalExpiryDate": null,
+        "expiryDate": null,
+        "extensionEntryDate": null,
+        "idxUpdated": "2025-02-12T21:07:50.000-00:00",
+        "imageInsightsUpdatedOn": "2025-02-12T21:07:50.000-00:00",
+        "listingEntryDate": null,
+        "listingUpdated": "2025-02-12T21:07:50.000-00:00",
+        "photosUpdated": "2025-02-12T21:07:50.000-00:00",
+        "possessionDate": null,
+        "repliersUpdatedOn": "2025-11-01T00:54:00.066Z",
+        "suspendedDate": null,
+        "terminatedDate": null,
+        "unavailableDate": null
+      },
+      "type": "Sale",
+      "updatedOn": "2025-02-12T21:07:50.000-00:00"
+    }
+  ],
+  "sample_queries": [
+    {
+      "description": "All active listings in Toronto",
+      "city": "Toronto",
+      "status": [
+        "Active"
+      ],
+      "min_price": null,
+      "max_price": null,
+      "bedrooms": null,
+      "property_type": null,
+      "result_count": 42749
+    },
+    {
+      "description": "3-bedroom condos under $800k",
+      "city": null,
+      "status": null,
+      "min_price": null,
+      "max_price": 800000.0,
+      "bedrooms": 3,
+      "property_type": [
+        "Condo"
+      ],
+      "result_count": 42749
+    },
+    {
+      "description": "Luxury homes in Vancouver over $2M",
+      "city": "Vancouver",
+      "status": null,
+      "min_price": 2000000.0,
+      "max_price": null,
+      "bedrooms": null,
+      "property_type": [
+        "Detached"
+      ],
+      "result_count": 42749
+    },
+    {
+      "description": "Recently sold properties",
+      "city": null,
+      "status": [
+        "Sold"
+      ],
+      "min_price": null,
+      "max_price": null,
+      "bedrooms": null,
+      "property_type": null,
+      "result_count": 42749
+    }
+  ]
+}
